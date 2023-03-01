@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/31 21:10:15.000.573,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 21:10:42.000.511,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 21:10:42.000.511,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.dfm</Transaction>
+    <Transaction>2022/10/31 21:11:19.000.882,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Clinica.dproj</Transaction>
+    <Transaction>2022/10/31 21:46:05.000.260,=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2022/10/31 21:47:19.000.377,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\unitCadPacientes.pas=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2022/10/31 21:47:19.000.377,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\unitCadPacientes.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.dfm</Transaction>
+    <Transaction>2022/10/31 21:48:00.000.626,=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/10/31 21:48:14.000.536,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\UnitCadAgendamentos.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit3.dfm</Transaction>
+    <Transaction>2022/10/31 21:48:14.000.536,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\UnitCadAgendamentos.pas=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/11/02 13:28:00.000.325,=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2022/11/02 13:37:37.000.337,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.dfm=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\unitDM.dfm</Transaction>
+    <Transaction>2022/11/02 13:37:37.000.337,C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas=C:\Users\lucas\OneDrive\Área de Trabalho\Sistema Clinica\unitDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
